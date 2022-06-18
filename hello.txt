@@ -3,3 +3,4 @@ hello atguigu! hello git!
 hello atguigu! hello git!8888
 hello atguigu! hello git!
 hello atguigu! hello git! master test
+hello atguigu! hello git! hot-fix test
